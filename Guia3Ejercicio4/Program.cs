@@ -2,9 +2,6 @@
 using System.Data;
 
 
-//Math.Cbrt(double) Metodo
-
-
 public class RaizCu
 {
    public static void Main()
